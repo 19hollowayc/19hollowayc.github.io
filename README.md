@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to HemoChek
 
-You can use the [editor on GitHub](https://github.com/19hollowayc/19hollowayc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thousands right now are suffering from the results of COVID-19 right now. HemoChek is here to protect doctor and patients from the spread of COVID-19.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We use a duo hemolyser through our app to give doctors a real-time blood tracker for their patients saving lives while slowing the spread.
 
 ### Markdown
 
